@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Justine Chia 
+title: Mayra Castro
 ---
 
-Justine Chia is a Data Scientist at Austin Capital Data. She received her PhD from the University of California, Berkeley, where she studied neurons that are involved in taste processing and memory formation in fruit flies.
+Mayra obtained her Bachelors of Science in Human Development and Family Sciences at the University of Texas at Austin. Throughout her coursework she became interested in adult development and specifically in patients facing Alzheimer's disease and other forms of dementia. She did her practicum at AGE of Central Texas gaining first hand experience with patients and their caregivers. H
 
 -----
 
-As a data scientist, she is excited to leverage her expertise in the life sciences to inform heath-related research directions. She is also passionate about making science and data accessible to the general public.
+Healthcare advancement relies heavily on data produced by research and she believes in the power data science has to change peoples lives in a positive way. 
 
-When not working on science, you can find her exploring trails in the backcountry, making mac n cheese, or building LED art projects.
+In her spare time she enjoys spending time outdoors with her children,  visiting friends and family, and exploring her city and surrounding areas. 
