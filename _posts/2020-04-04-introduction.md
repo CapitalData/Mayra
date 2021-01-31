@@ -3,7 +3,7 @@ layout: post
 title: Mayra Castro
 ---
 
-Mayra obtained her Bachelors of Science in Human Development and Family Sciences at the University of Texas at Austin. Throughout her coursework she became interested in adult development and specifically in patients facing Alzheimer's disease and other forms of dementia. She did her practicum at AGE of Central Texas gaining first hand experience with patients and their caregivers. H
+Mayra obtained her Bachelors of Science in Human Development and Family Sciences at the University of Texas at Austin. Throughout her coursework she became interested in adult development and specifically in patients facing Alzheimer's disease and other forms of dementia. She did her practicum at AGE of Central Texas gaining first hand experience with patients and their caregivers. 
 
 -----
 
